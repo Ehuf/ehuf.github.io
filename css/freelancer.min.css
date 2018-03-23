@@ -282,10 +282,10 @@ form .row:first-child .floating-label-form-group{
     background-color: black
 }
 a{
-    color:black;
+    color:#C21F15;
 }
 a:active,a:focus,a:hover{
-    color:black
+    color:darkred;
 }
 .btn{
     border-width:2px
@@ -344,6 +344,10 @@ a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
     background-color: darkred !important;
+}
+
+.bg-black {
+    background-color: black !important;
 }
 
 
