@@ -1,14 +1,14 @@
 {
-  "main.css": "/mark-website/static/css/main.33577992.chunk.css",
-  "main.js": "/mark-website/static/js/main.f10aef29.chunk.js",
-  "main.js.map": "/mark-website/static/js/main.f10aef29.chunk.js.map",
-  "static/js/1.324b6cf3.chunk.js": "/mark-website/static/js/1.324b6cf3.chunk.js",
-  "static/js/1.324b6cf3.chunk.js.map": "/mark-website/static/js/1.324b6cf3.chunk.js.map",
-  "runtime~main.js": "/mark-website/static/js/runtime~main.98be860e.js",
-  "runtime~main.js.map": "/mark-website/static/js/runtime~main.98be860e.js.map",
-  "static/media/logo.svg": "/mark-website/static/media/logo.5d5d9eef.svg",
-  "static/css/main.33577992.chunk.css.map": "/mark-website/static/css/main.33577992.chunk.css.map",
-  "index.html": "/mark-website/index.html",
-  "precache-manifest.6ad2fc812255816c9d71da1cd4c538d2.js": "/mark-website/precache-manifest.6ad2fc812255816c9d71da1cd4c538d2.js",
-  "service-worker.js": "/mark-website/service-worker.js"
+  "main.css": "/static/css/main.33577992.chunk.css",
+  "main.js": "/static/js/main.113f2df7.chunk.js",
+  "main.js.map": "/static/js/main.113f2df7.chunk.js.map",
+  "static/js/1.324b6cf3.chunk.js": "/static/js/1.324b6cf3.chunk.js",
+  "static/js/1.324b6cf3.chunk.js.map": "/static/js/1.324b6cf3.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+  "static/css/main.33577992.chunk.css.map": "/static/css/main.33577992.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.755e5952f3d691fac2b664e59d54348f.js": "/precache-manifest.755e5952f3d691fac2b664e59d54348f.js",
+  "service-worker.js": "/service-worker.js"
 }
