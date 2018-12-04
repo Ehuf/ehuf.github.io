@@ -12,14 +12,6 @@ class App extends Component {
             <code>this website is under construction.</code> <br />
             <code>come back soon! :-)</code>
           </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
         </header>
       </div>
     );
