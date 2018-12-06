@@ -4,6 +4,7 @@ import Navigation from "./components/Navigation";
 import Landing from "./components/Landing";
 import Particles from "react-particles-js";
 import "./components/particles.css"
+import "./background.css"
 
 const bgParams = {
   particles: {
@@ -94,12 +95,13 @@ class App extends Component {
     return (
       <div>
         <Particles
+          className="particleBackground"
           width="100%"
           height="100%"
           params={bgParams}
         />
         <Navigation />
-        <Landing />
+        <Landing className="main"/>
       </div>
     );
   }
