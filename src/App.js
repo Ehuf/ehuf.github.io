@@ -50,7 +50,7 @@ const bgParams = {
       }
     },
     line_linked: {
-      enable: false,
+      enable: true,
       distance: 150,
       color: "#ffffff",
       opacity: 0.4,
